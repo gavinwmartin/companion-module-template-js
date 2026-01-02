@@ -1,7 +1,8 @@
 module.exports = function (self) {
-	self.setVariableDefinitions([
-		{ variableId: 'variable1', name: 'My first variable' },
-		{ variableId: 'variable2', name: 'My second variable' },
-		{ variableId: 'variable3', name: 'Another variable' },
-	])
+  self.setVariableDefinitions([
+    { variableId: 'status', name: 'Timer status' },
+    { variableId: 'remaining_seconds', name: 'Remaining seconds' },
+    { variableId: 'label', name: 'Timer label' },
+    { variableId: 'last_message', name: 'Last response message' },
+  ])
 }
