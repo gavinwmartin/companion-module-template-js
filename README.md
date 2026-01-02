@@ -1,3 +1,7 @@
-# companion-module-[replace with module name]
+# companion-module-simple-countdown-timer
 
-See [HELP.md](./companion/HELP.md) and [LICENSE](./LICENSE)
+Bitfocus Companion module for [gavinwmartin/simple-countdown-timer](https://github.com/gavinwmartin/simple-countdown-timer).
+
+This module drives the timer's HTTP API to start, pause, reset, label, and resize the countdown from Companion.
+
+See [HELP.md](./companion/HELP.md) and [LICENSE](./LICENSE) for usage and licensing details.
